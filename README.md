@@ -10,3 +10,6 @@ http://www.columbia.edu/~rsb2162/FES2013/materials.html
 
 4. JMLR Special Issue on Variable and Feature Selection;
 https://jmlr.org/papers/special/feature03.html
+
+5. How to extract features from the encoded layer of an autoencoder? 
+https://datascience.stackexchange.com/questions/64412/how-to-extract-features-from-the-encoded-layer-of-an-autoencoder
