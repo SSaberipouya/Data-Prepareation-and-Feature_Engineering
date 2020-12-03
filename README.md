@@ -22,5 +22,5 @@ https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in
 https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
 
 8. How to Perform Data Cleaning for Machine Learning with Python?
-https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
+https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/ &
 https://machinelearningmastery.com/data-cleaning-turn-messy-data-into-tidy-data/
