@@ -17,3 +17,6 @@ https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-a
 
 6. How to Use StandardScaler and MinMaxScaler Transforms in Python?
 https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
+
+7. How to Perform Data Cleaning for Machine Learning with Python?
+https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
