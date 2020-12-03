@@ -14,3 +14,6 @@ https://jmlr.org/papers/special/feature03.html
 5. How to extract features from the encoded layer of an autoencoder? 
 https://datascience.stackexchange.com/questions/64412/how-to-extract-features-from-the-encoded-layer-of-an-autoencoder &
 https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
+
+6. How to Use StandardScaler and MinMaxScaler Transforms in Python?
+https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
