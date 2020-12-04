@@ -27,3 +27,9 @@ http://www.columbia.edu/~rsb2162/FES2013/materials.html
 
 9. JMLR Special Issue on Variable and Feature Selection;
 https://jmlr.org/papers/special/feature03.html
+
+10. How to Perform Feature Selection with Categorical Data;
+https://machinelearningmastery.com/feature-selection-with-categorical-data/
+
+11. How to Perform Feature Selection With Numerical Input Data;
+https://machinelearningmastery.com/feature-selection-with-numerical-input-data/
