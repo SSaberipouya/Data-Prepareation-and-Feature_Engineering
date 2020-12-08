@@ -33,3 +33,6 @@ https://machinelearningmastery.com/feature-selection-with-categorical-data/
 
 11. How to Perform Feature Selection With Numerical Input Data;
 https://machinelearningmastery.com/feature-selection-with-numerical-input-data/
+
+12. Framework for Data Preparation Techniques in Machine Learning;
+https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/
