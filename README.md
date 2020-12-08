@@ -35,4 +35,4 @@ https://machinelearningmastery.com/feature-selection-with-categorical-data/
 https://machinelearningmastery.com/feature-selection-with-numerical-input-data/
 
 12. Framework for Data Preparation Techniques in Machine Learning;
-https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/
+https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/ & https://medium.com/manomano-tech/a-framework-for-feature-engineering-and-machine-learning-pipelines-ddb53867a420.
