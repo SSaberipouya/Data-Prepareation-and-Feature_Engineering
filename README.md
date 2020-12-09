@@ -27,4 +27,7 @@ https://machinelearningmastery.com/feature-selection-with-numerical-input-data/
 https://datascience.stackexchange.com/questions/64412/how-to-extract-features-from-the-encoded-layer-of-an-autoencoder &
 https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
 
+9. A Gentle Introduction to k-fold Cross-Validation
+https://machinelearningmastery.com/k-fold-cross-validation/
+
 
