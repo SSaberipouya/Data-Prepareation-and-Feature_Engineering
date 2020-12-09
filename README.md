@@ -30,4 +30,6 @@ https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-a
 9. A Gentle Introduction to k-fold Cross-Validation
 https://machinelearningmastery.com/k-fold-cross-validation/
 
+https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/
+
 
