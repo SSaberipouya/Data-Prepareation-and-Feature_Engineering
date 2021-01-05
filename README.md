@@ -30,5 +30,8 @@ https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-a
 9. A Gentle Introduction to k-fold Cross-Validation
 https://machinelearningmastery.com/k-fold-cross-validation/
 
+10. A Gentle Introduction to Activation Regularization in Deep Learning
+https://machinelearningmastery.com/activation-regularization-for-reducing-generalization-error-in-deep-learning-neural-networks/
+
 
 
