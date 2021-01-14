@@ -33,5 +33,8 @@ https://machinelearningmastery.com/k-fold-cross-validation/
 10. A Gentle Introduction to Activation Regularization in Deep Learning
 https://machinelearningmastery.com/activation-regularization-for-reducing-generalization-error-in-deep-learning-neural-networks/
 
+11. How to Perform Data Cleaning for Machine Learning with Python
+https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
+
 
 
