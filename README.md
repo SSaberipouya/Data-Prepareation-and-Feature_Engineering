@@ -39,5 +39,8 @@ https://machinelearningmastery.com/overfitting-machine-learning-models/
 11. How to Perform Data Cleaning for Machine Learning with Python
 https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
 
+12. Navigating The Hell of NaNs in Python
+https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895b
+
 
 
