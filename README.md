@@ -42,5 +42,6 @@ https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
 12. Navigating The Hell of NaNs in Python
 https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895b
 
-
+13. Merge, join, concatenate in python
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
