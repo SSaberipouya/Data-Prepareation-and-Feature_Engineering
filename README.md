@@ -45,3 +45,7 @@ https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895
 13. Merge, join, concatenate in python
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
+14. How to deal with outliers
+https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/ & https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
+& https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
+
