@@ -5,6 +5,10 @@ In statistics, an outlier is a data point that differs significantly from other 
 
 Remember that even if a data point is an outlier, its still a data point! Carefully consider your data, its sources, and your goals whenver deciding to remove an outlier. Each case is different!
 
+### Usefull Links (How to deal with outliers?)
+1. https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/
+2. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
+3. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
 
 # Usefull Links
 1. Framework for Data Preparation Techniques in Machine Learning;
@@ -54,7 +58,4 @@ https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895
 13. Merge, join, concatenate in python
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
-14. How to deal with outliers
-https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/ & https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
-& https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
 
