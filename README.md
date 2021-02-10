@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Data Prepration](0_5VO7UmvWBfTTUJvJ.jpg)
 
 # Usefull Links
 1. Framework for Data Preparation Techniques in Machine Learning;
