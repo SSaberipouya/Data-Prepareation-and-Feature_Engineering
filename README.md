@@ -1,5 +1,11 @@
 ![Data Prepration](0_5VO7UmvWBfTTUJvJ.jpg)
 
+# Dealing with Outliers
+In statistics, an outlier is a data point that differs significantly from other observations. An outlier may be due to variability in the measurement or it may indicate experimental error; the latter are sometimes excluded from the data set. An outlier can cause serious problems in statistical analyses.
+
+Remember that even if a data point is an outlier, its still a data point! Carefully consider your data, its sources, and your goals whenver deciding to remove an outlier. Each case is different!
+
+
 # Usefull Links
 1. Framework for Data Preparation Techniques in Machine Learning;
 https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/ & https://medium.com/manomano-tech/a-framework-for-feature-engineering-and-machine-learning-pipelines-ddb53867a420.
