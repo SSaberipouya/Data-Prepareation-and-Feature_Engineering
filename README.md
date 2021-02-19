@@ -1,15 +1,16 @@
 ![Data Prepration](0_5VO7UmvWBfTTUJvJ.jpg)
-# 1. Dealing with missing data
-#
-# 3. Dealing with Outliers
+# 00. Dealing with Outliers
 In statistics, an outlier is a data point that differs significantly from other observations. An outlier may be due to variability in the measurement or it may indicate experimental error; the latter are sometimes excluded from the data set. An outlier can cause serious problems in statistical analyses.
 
 Remember that even if a data point is an outlier, its still a data point! Carefully consider your data, its sources, and your goals whenver deciding to remove an outlier. Each case is different!
-
 ### Usefull Links (How to deal with outliers?)
 1. https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/
 2. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
 3. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
+
+# 01 Dealing with missing data
+# 02 Dealing with categorical data
+
 
 # Usefull Links
 1. Framework for Data Preparation Techniques in Machine Learning;
