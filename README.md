@@ -51,13 +51,17 @@ https://machinelearningmastery.com/activation-regularization-for-reducing-genera
 11. How to Identify Overfitting Machine Learning Models in Scikit-Learn
 https://machinelearningmastery.com/overfitting-machine-learning-models/
 
-11. How to Perform Data Cleaning for Machine Learning with Python
+12. How to Perform Data Cleaning for Machine Learning with Python
 https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
 
-12. Navigating The Hell of NaNs in Python
+13. Navigating The Hell of NaNs in Python
 https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895b
 
-13. Merge, join, concatenate in python
+14. Merge, join, concatenate in python
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+
+15. How to Map Data to a Normal Distribution\
+![How to Transform Data to Better Fit The Normal Distribution](https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/)\
+![Map Data to a Normal Distribution](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html)
 
 
