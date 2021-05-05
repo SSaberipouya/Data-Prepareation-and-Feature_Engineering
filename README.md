@@ -60,7 +60,10 @@ https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895
 14. Merge, join, concatenate in python
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
-15. How to Map Data to a Normal Distribution\
+15. Melt function in python is used to unpivot a given DataFrame from wide format to long format.
+https://pandas.pydata.org/docs/reference/api/pandas.melt.html & https://www.w3resource.com/pandas/dataframe/dataframe-melt.php
+
+16. How to Map Data to a Normal Distribution\
 [How to Transform Data to Better Fit The Normal Distribution](https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/)\
 [Map Data to a Normal Distribution](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html)
 
