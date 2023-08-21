@@ -1,4 +1,8 @@
 ![Flowchart](introduction-image.jpg)
+# Welcome to the Data Preparation and Data Engineering Repository!
+
+In this repository, you will discover a collection of valuable queries and curated papers designed to enhance your understanding of data preparation and data engineering techniques for machine learning projects. Whether you're a novice looking to grasp the fundamentals or an experienced practitioner aiming to refine your skills, this repository offers a wealth of resources to help you navigate the intricate world of data for successful machine-learning endeavors.
+
 # 00. Dealing with Outliers
 In statistics, an outlier is a data point that differs significantly from other observations. An outlier may be due to variability in the measurement or it may indicate experimental error; the latter are sometimes excluded from the data set. An outlier can cause serious problems in statistical analyses.
 
