@@ -1,3 +1,4 @@
+# Welcome to the Data Preparation and Data Engineering Repository!
 ![Flowchart](introduction-image.jpg)
 In this repository, you will discover a collection of valuable queries and curated papers designed to enhance your understanding of data preparation and data engineering techniques for machine learning projects. Whether you're a novice looking to grasp the fundamentals or an experienced practitioner aiming to refine your skills, this repository offers a wealth of resources to help you navigate the intricate world of data for successful machine-learning endeavors.
 
