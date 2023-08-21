@@ -2,14 +2,15 @@
 # 00. Dealing with Outliers
 In statistics, an outlier is a data point that differs significantly from other observations. An outlier may be due to variability in the measurement or it may indicate experimental error; the latter are sometimes excluded from the data set. An outlier can cause serious problems in statistical analyses.
 
-Remember that even if a data point is an outlier, its still a data point! Carefully consider your data, its sources, and your goals whenver deciding to remove an outlier. Each case is different!
-### Usefull Links (How to deal with outliers?)
+Remember that even if a data point is an outlier, it's still a data point! Carefully consider your data, its sources, and your goals whenever deciding to remove an outlier. Each case is different!
+### Useful Links (How to deal with outliers?)
 1. https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/
 2. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
 3. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
 
-# 01 Dealing with missing data
-# 02 Dealing with categorical data
+# 01 Dealing with data Leakage 
+# 02 Dealing with missing data
+# 03 Dealing with categorical data
 
 
 # Usefull Links
@@ -42,7 +43,7 @@ https://machinelearningmastery.com/feature-selection-with-numerical-input-data/
 https://datascience.stackexchange.com/questions/64412/how-to-extract-features-from-the-encoded-layer-of-an-autoencoder &
 https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
 
-9. A Gentle Introduction to k-fold Cross-Validation
+9. A Gentle Introduction to K-fold Cross-Validation
 https://machinelearningmastery.com/k-fold-cross-validation/
 
 10. A Gentle Introduction to Activation Regularization in Deep Learning
@@ -57,10 +58,10 @@ https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
 13. Navigating The Hell of NaNs in Python
 https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895b
 
-14. Merge, join, concatenate in python
+14. Merge, join, concatenate in Python
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
-15. Melt function in python is used to unpivot a given DataFrame from wide format to long format.
+15. Melt function in Python is used to unpivot a given DataFrame from a wide format to a long format.
 https://pandas.pydata.org/docs/reference/api/pandas.melt.html & https://www.w3resource.com/pandas/dataframe/dataframe-melt.php
 
 16. How to Map Data to a Normal Distribution\
