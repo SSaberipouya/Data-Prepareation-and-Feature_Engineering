@@ -21,50 +21,49 @@ https://machinelearningmastery.com/framework-for-data-preparation-for-machine-le
 https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/ &
 https://machinelearningmastery.com/data-cleaning-turn-messy-data-into-tidy-data/
 
-
 3. How to Choose a Feature Selection Method For Machine Learning? 
 https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+https://www.linkedin.com/pulse/feature-engineering-techniques-machine-learning-sunil-kumar-cheruku/
 
-
-4. Feature_selection for Regression Problems;
+5. Feature_selection for Regression Problems;
 https://towardsdatascience.com/how-to-perform-feature-selection-for-regression-problems-c928e527bbfa &
 https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 
-5. How to Use StandardScaler and MinMaxScaler Transforms in Python?
+6. How to Use StandardScaler and MinMaxScaler Transforms in Python?
 https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
 
-6. How to Perform Feature Selection with Categorical Data;
+7. How to Perform Feature Selection with Categorical Data;
 https://machinelearningmastery.com/feature-selection-with-categorical-data/
 
-7. How to Perform Feature Selection With Numerical Input Data;
+8. How to Perform Feature Selection With Numerical Input Data;
 https://machinelearningmastery.com/feature-selection-with-numerical-input-data/
 
-8. How to extract features from the encoded layer of an autoencoder? 
+9. How to extract features from the encoded layer of an autoencoder? 
 https://datascience.stackexchange.com/questions/64412/how-to-extract-features-from-the-encoded-layer-of-an-autoencoder &
 https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64
 
-9. A Gentle Introduction to K-fold Cross-Validation
+10. A Gentle Introduction to K-fold Cross-Validation
 https://machinelearningmastery.com/k-fold-cross-validation/
 
-10. A Gentle Introduction to Activation Regularization in Deep Learning
+11. A Gentle Introduction to Activation Regularization in Deep Learning
 https://machinelearningmastery.com/activation-regularization-for-reducing-generalization-error-in-deep-learning-neural-networks/
 
-11. How to Identify Overfitting Machine Learning Models in Scikit-Learn
+12. How to Identify Overfitting Machine Learning Models in Scikit-Learn
 https://machinelearningmastery.com/overfitting-machine-learning-models/
 
-12. How to Perform Data Cleaning for Machine Learning with Python
+13. How to Perform Data Cleaning for Machine Learning with Python
 https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
 
-13. Navigating The Hell of NaNs in Python
+14. Navigating The Hell of NaNs in Python
 https://towardsdatascience.com/navigating-the-hell-of-nans-in-python-71b12558895b
 
-14. Merge, join, concatenate in Python
+15. Merge, join, concatenate in Python
 https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 
-15. Melt function in Python is used to unpivot a given DataFrame from a wide format to a long format.
+16. Melt function in Python is used to unpivot a given DataFrame from a wide format to a long format.
 https://pandas.pydata.org/docs/reference/api/pandas.melt.html & https://www.w3resource.com/pandas/dataframe/dataframe-melt.php
 
-16. How to Map Data to a Normal Distribution\
+17. How to Map Data to a Normal Distribution\
 [How to Transform Data to Better Fit The Normal Distribution](https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/)\
 [Map Data to a Normal Distribution](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html)
 
