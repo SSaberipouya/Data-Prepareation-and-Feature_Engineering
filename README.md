@@ -4,14 +4,37 @@
 In this repository, you will discover a collection of valuable queries and curated papers designed to enhance your understanding of data preparation and data engineering techniques for machine learning projects. Whether you're a novice looking to grasp the fundamentals or an experienced practitioner aiming to refine your skills, this repository offers a wealth of resources to help you navigate the intricate world of data for successful machine-learning endeavors.
 
 # 00. Dealing with Outliers
-In statistics, an outlier is a data point that differs significantly from other observations. An outlier may be due to variability in the measurement or it may indicate experimental error; the latter are sometimes excluded from the data set. An outlier can cause serious problems in statistical analyses.
 
-Remember that even if a data point is an outlier, it's still a data point! Carefully consider your data, its sources, and your goals whenever deciding to remove an outlier. Each case is different!
-### Useful Links (How to deal with outliers?)
-1. https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/
-2. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
-3. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
-4. 
+In statistics, an outlier refers to a data point that deviates significantly from the rest of the observations in a dataset. Outliers can arise due to various reasons, such as measurement errors, natural variability, or even genuine extreme values. It's important to handle outliers appropriately because they can distort the results of statistical analyses and impact the accuracy of predictive models.
+
+## Understanding Outliers
+
+Identifying outliers is a crucial step in data preprocessing and analysis. Outliers can have a disproportionate influence on statistical measures like the mean and standard deviation, causing these measures to be skewed. Moreover, they can affect the assumptions of many statistical techniques that assume a certain distribution of data. Failing to address outliers can lead to incorrect conclusions and predictions.
+
+## Dealing with Outliers
+
+While outliers can be problematic, they also provide valuable insights into data quality and potential issues. Therefore, it's important to carefully evaluate whether to remove an outlier from the dataset or not. Here are a few approaches to dealing with outliers:
+
+1. **Understanding Data Sources:** Before labeling a data point as an outlier, it's essential to understand the context of the data and its sources. Sometimes, what appears to be an outlier might actually be a valid and important observation. Investigate the data collection process to ensure the accuracy of the measurement.
+
+2. **Visualization:** Visualizing the data through scatter plots, histograms, or box plots can help in identifying outliers visually. A visual inspection might reveal patterns or explain the presence of certain extreme values.
+
+3. **Statistical Methods:** Statistical methods can be employed to identify outliers quantitatively. Common methods include the use of z-scores or the interquartile range (IQR). Z-scores measure how many standard deviations a data point is away from the mean, while IQR helps detect outliers based on quartiles of the data.
+
+4. **Domain Knowledge:** Subject-matter experts often possess domain knowledge that can aid in differentiating between genuine outliers and meaningful data points. Their input can be invaluable in making informed decisions about outlier handling.
+
+## Useful Links
+
+For further guidance on identifying and handling outliers, you can refer to the following resources:
+
+1. [How to Identify Outliers in Your Data](https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/)
+2. [Using Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
+3. [Strategies for Dealing with Outliers](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
+
+## Conclusion
+
+Dealing with outliers is a critical aspect of data analysis and modeling. While they can disrupt statistical analyses, they also hold valuable information. The decision to remove outliers should be based on a thorough understanding of the data and its context, keeping in mind the goals of the analysis. Remember, each situation is unique, and careful consideration is necessary to make the right choices regarding outlier treatment.
+
 # 01 Dealing with data Leakage 
 ![Data_leakage](DataLeakage.jpg)
 
