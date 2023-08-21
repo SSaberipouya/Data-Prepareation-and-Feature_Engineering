@@ -11,8 +11,37 @@ Remember that even if a data point is an outlier, it's still a data point! Caref
 1. https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/
 2. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
 3. https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
-
+4. 
 # 01 Dealing with data Leakage 
+![Data_leakage](DataLeakage.jpg)
+
+Welcome to my repository on **Data Leakage in Machine Learning**. In this comprehensive resource, we delve into the intricate topic of data leakage, providing you with a thorough understanding of its implications and ways to mitigate it effectively.
+
+Data leakage is a critical concern in the field of machine learning. It occurs when information from outside the training dataset influences the model's performance during training or evaluation, leading to misleadingly optimistic results. As a result, the model's ability to generalize to new, unseen data is compromised.
+
+### Repository Contents
+
+1. **What is Data Leakage in Machine Learning?**
+   [Link to Article](https://machinelearningmastery.com/data-leakage-machine-learning/)
+   
+   Discover the fundamental concepts of data leakage in machine learning. This article explores the various forms of data leakage, how they impact model performance, and real-world examples to illustrate the consequences.
+
+2. **How to Avoid Data Leakage During Data Preparation?**
+   [Link to Article](https://machinelearningmastery.com/data-preparation-without-data-leakage/)
+   
+   Effective data preparation is key to building robust and accurate machine learning models. In this article, we explore strategies to ensure your data preprocessing procedures are free from data leakage, enabling your models to learn meaningful patterns from the right information.
+
+3. **Data Leakage Explained**
+   [Link to Kaggle Notebook](https://www.kaggle.com/alexisbcook/data-leakage)
+   
+   Dive into a practical example on Kaggle that illustrates data leakage. This notebook provides step-by-step insights into recognizing and handling data leakage situations, enhancing your ability to identify and rectify such issues in your own projects.
+
+Stay tuned for updates to this repository as we continue to provide in-depth insights, tutorials, and resources to help you navigate the complex landscape of data leakage in machine learning. Whether you're a novice or an experienced practitioner, our aim is to empower you with the knowledge and skills needed to build reliable and accurate machine learning models.
+
+Happy learning!
+
+*Last updated: August 2023*
+
 # 02 Dealing with missing data
 # 03 Dealing with categorical data
 
