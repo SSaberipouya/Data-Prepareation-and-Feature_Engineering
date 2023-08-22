@@ -34,7 +34,7 @@ For further guidance on identifying and handling outliers, you can refer to the 
 
 Dealing with outliers is a critical aspect of data analysis and modeling. While they can disrupt statistical analyses, they also hold valuable information. The decision to remove outliers should be based on a thorough understanding of the data and its context, keeping in mind the goals of the analysis. Remember, each situation is unique, and careful consideration is necessary to make the right choices regarding outlier treatment.
 
-# 01 Dealing with data Leakage 
+# 01. Dealing with data Leakage 
 ![Data_leakage](DataLeakage.jpg)
 
 Data leakage is a critical concern in the field of machine learning. It occurs when information from outside the training dataset influences the model's performance during training or evaluation, leading to misleadingly optimistic results. As a result, the model's ability to generalize to new, unseen data is compromised.
@@ -60,7 +60,7 @@ Stay tuned for updates to this repository as we continue to provide in-depth ins
 
 Happy learning!
 
-# 02 Dealing with missing data: Strategies and Techniques
+# 02. Dealing with missing data: Strategies and Techniques
 
 Handling missing data is a critical aspect of data analysis and machine learning, as real-world datasets often contain incomplete information. Properly addressing missing data ensures accurate and reliable results in any analysis. Here, I'll explore various strategies to deal with missing data and provide useful resources to enhance your understanding.
 
@@ -88,7 +88,7 @@ For those seeking in-depth knowledge and practical guidance on handling missing 
 
 In conclusion, addressing missing data is crucial for accurate analysis and modeling. Depending on the nature of the data and the goals of the analysis, different strategies can be employed. By leveraging resources like Kaggle and guides on handling missing data, you can enhance your proficiency in managing this common challenge in data science. Remember that the chosen strategy should align with the overall goals of your analysis and the specific characteristics of the dataset at hand.
 
-# 03 Dealing with categorical data
+# 03. Dealing with categorical data
 
 
 # Usefull Links
