@@ -39,7 +39,7 @@ Dealing with outliers is a critical aspect of data analysis and modeling. While 
 
 Data leakage is a critical concern in the field of machine learning. It occurs when information from outside the training dataset influences the model's performance during training or evaluation, leading to misleadingly optimistic results. As a result, the model's ability to generalize to new, unseen data is compromised.
 
-### Repository Contents
+Are you ready to enhance your understanding of a critical aspect of machine learning? Dive into the world of data leakage with this comprehensive learning guide, designed to empower you with the knowledge to identify, prevent, and handle data leakage effectively.
 
 1. **What is Data Leakage in Machine Learning?**
    [Link to Article](https://machinelearningmastery.com/data-leakage-machine-learning/)
