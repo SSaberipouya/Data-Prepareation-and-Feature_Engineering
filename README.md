@@ -37,8 +37,6 @@ Dealing with outliers is a critical aspect of data analysis and modeling. While 
 # 01 Dealing with data Leakage 
 ![Data_leakage](DataLeakage.jpg)
 
-Welcome to my repository on **Data Leakage in Machine Learning**. In this comprehensive resource, we delve into the intricate topic of data leakage, providing you with a thorough understanding of its implications and ways to mitigate it effectively.
-
 Data leakage is a critical concern in the field of machine learning. It occurs when information from outside the training dataset influences the model's performance during training or evaluation, leading to misleadingly optimistic results. As a result, the model's ability to generalize to new, unseen data is compromised.
 
 ### Repository Contents
@@ -51,7 +49,7 @@ Data leakage is a critical concern in the field of machine learning. It occurs w
 2. **How to Avoid Data Leakage During Data Preparation?**
    [Link to Article](https://machinelearningmastery.com/data-preparation-without-data-leakage/)
    
-   Effective data preparation is key to building robust and accurate machine learning models. In this article, we explore strategies to ensure your data preprocessing procedures are free from data leakage, enabling your models to learn meaningful patterns from the right information.
+   Effective data preparation is key to building robust and accurate machine-learning models. In this article, we explore strategies to ensure your data preprocessing procedures are free from data leakage, enabling your models to learn meaningful patterns from the right information.
 
 3. **Data Leakage Explained**
    [Link to Kaggle Notebook](https://www.kaggle.com/alexisbcook/data-leakage)
