@@ -30,9 +30,8 @@ For further guidance on identifying and handling outliers, you can refer to the 
 2. [Using Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 3. [Strategies for Dealing with Outliers](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
 
-## Conclusion
 
-Dealing with outliers is a critical aspect of data analysis and modeling. While they can disrupt statistical analyses, they also hold valuable information. The decision to remove outliers should be based on a thorough understanding of the data and its context, keeping in mind the goals of the analysis. Remember, each situation is unique, and careful consideration is necessary to make the right choices regarding outlier treatment.
+In conclusion, dealing with outliers is a critical aspect of data analysis and modeling. While they can disrupt statistical analyses, they also hold valuable information. The decision to remove outliers should be based on a thorough understanding of the data and its context, keeping in mind the goals of the analysis. Remember, each situation is unique, and careful consideration is necessary to make the right choices regarding outlier treatment.
 
 # 01. Dealing with data Leakage 
 ![Data_leakage](DataLeakage.jpg)
@@ -63,6 +62,8 @@ Happy learning!
 # 02. Dealing with missing data: Strategies and Techniques
 
 Handling missing data is a critical aspect of data analysis and machine learning, as real-world datasets often contain incomplete information. Properly addressing missing data ensures accurate and reliable results in any analysis. Here, I'll explore various strategies to deal with missing data and provide useful resources to enhance your understanding.
+
+## Strategies to deal with missing data 
 
 **1. Leave It**:
 In some cases, leaving the missing data as might be a viable option, especially if the missing values are random and not expected to significantly impact the analysis. However, careful consideration is necessary to ensure that this choice does not introduce bias or distort results.
