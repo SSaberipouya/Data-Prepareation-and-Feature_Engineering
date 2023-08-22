@@ -82,7 +82,7 @@ When a feature (column) has a substantial amount of missing data and is deemed i
 ## Useful Links:
 For those seeking in-depth knowledge and practical guidance on handling missing data, several resources are available:
 
-[**Kaggle**](https://www.kaggle.com/): Kaggle is a renowned platform for data science and machine learning enthusiasts. It offers a plethora of datasets and competitions, providing opportunities to practice various techniques for handling missing data and improving overall data analysis skills. 
+[**Kaggle**]([https://www.kaggle.com/](https://www.kaggle.com/code/alexisbcook/handling-missing-values): Kaggle is a renowned platform for data science and machine learning enthusiasts. It offers a plethora of datasets and competitions, providing opportunities to practice various techniques for handling missing data and improving overall data analysis skills. 
 
 [**Handle Missing Data**](https://machinelearningmastery.com/handle-missing-data-python/): This guide provides comprehensive insights into different approaches for dealing with missing data. It covers the pros and cons of each strategy and helps you make informed decisions based on the context of your analysis. 
 
