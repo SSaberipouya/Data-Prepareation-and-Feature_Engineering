@@ -34,7 +34,6 @@ For further guidance on identifying and handling outliers, you can refer to the 
 In conclusion, dealing with outliers is a critical aspect of data analysis and modeling. While they can disrupt statistical analyses, they also hold valuable information. The decision to remove outliers should be based on a thorough understanding of the data and its context, keeping in mind the goals of the analysis. Remember, each situation is unique, and careful consideration is necessary to make the right choices regarding outlier treatment.
 
 # 01. Dealing with data Leakage 
-![Data_leakage](DataLeakage.jpg)
 
 Data leakage is a critical concern in the field of machine learning. It occurs when information from outside the training dataset influences the model's performance during training or evaluation, leading to misleadingly optimistic results. As a result, the model's ability to generalize to new, unseen data is compromised.
 
@@ -65,27 +64,29 @@ Handling missing data is a critical aspect of data analysis and machine learning
 
 ## Strategies to deal with missing data 
 
-**1. Leave It**:
-In some cases, leaving the missing data as might be a viable option, especially if the missing values are random and not expected to significantly impact the analysis. However, careful consideration is necessary to ensure that this choice does not introduce bias or distort results.
+1. **Leave It**:
+    In some cases, leaving the missing data as might be a viable option, especially if the missing values are random and not expected to significantly impact the analysis. However, careful consideration is necessary to ensure that this choice does not introduce bias or distort results.
 
-**2. Replace It**:
-Replacing missing values with estimated or imputed values can be an effective strategy. Common methods include mean, median, or mode imputation, which fill in missing values with the average, median, or most frequent value in the respective column. 
+2. **Replace It**:
+    Replacing missing values with estimated or imputed values can be an effective strategy. Common methods include mean, median, or mode imputation, which fill in missing values with the average, median, or most frequent value in the respective column. 
 
-**3. Drop It**:
-When missing values are limited to a few instances, removing those instances can be a straightforward solution. This approach is suitable when the missing values are unlikely to carry essential information and can be safely discarded.
+3. **Drop It**:
+    When missing values are limited to a few instances, removing those instances can be a straightforward solution. This approach is suitable when the missing values are unlikely to carry essential information and can be safely discarded.
 
-**4. Drop Rows**:
-If a particular row contains multiple missing values or is incomplete, you might choose to drop the entire row from the dataset. This strategy helps ensure the integrity of the data and prevents skewing analysis results due to incomplete records.
+4. **Drop Rows**:
+    If a particular row contains multiple missing values or is incomplete, you might choose to drop the entire row from the dataset. This strategy helps ensure the integrity of the data and prevents skewing analysis results due to incomplete records.
 
-**5. Drop Columns**:
-When a feature (column) has a substantial amount of missing data and is deemed irrelevant to the analysis, dropping the entire column may be a reasonable choice. This action simplifies the dataset and eliminates the need to impute missing values for that specific feature.
+5. **Drop Columns**:
+    When a feature (column) has a substantial amount of missing data and is deemed irrelevant to the analysis, dropping the entire column may be a reasonable choice. This action simplifies the dataset and eliminates the need to impute missing values for that specific feature.
 
 ## Useful Links:
 For those seeking in-depth knowledge and practical guidance on handling missing data, several resources are available:
 
-[**Kaggle Course**](https://www.kaggle.com/code/alexisbcook/handling-missing-values): Kaggle is a renowned platform for data science and machine learning enthusiasts. It offers a plethora of datasets and competitions, providing opportunities to practice various techniques for handling missing data and improving overall data analysis skills. 
+[**Kaggle Course**](https://www.kaggle.com/code/alexisbcook/handling-missing-values): Kaggle is a renowned platform for data science and machine learning enthusiasts. It offers a plethora of datasets and competitions, 
+    providing opportunities to practice various techniques for handling missing data and improving overall data analysis skills. 
 
-[**How to Handle Missing Data with Python**](https://machinelearningmastery.com/handle-missing-data-python/): This guide provides comprehensive insights into different approaches for dealing with missing data. It covers the pros and cons of each strategy and helps you make informed decisions based on the context of your analysis. 
+[**How to Handle Missing Data with Python**](https://machinelearningmastery.com/handle-missing-data-python/): This guide provides comprehensive insights into different approaches for dealing with missing data. It covers 
+    the pros and cons of each strategy and helps you make informed decisions based on the context of your analysis. 
 
 In conclusion, addressing missing data is crucial for accurate analysis and modeling. Depending on the nature of the data and the goals of the analysis, different strategies can be employed. By leveraging resources like Kaggle and guides on handling missing data, you can enhance your proficiency in managing this common challenge in data science. Remember that the chosen strategy should align with the overall goals of your analysis and the specific characteristics of the dataset at hand.
 
