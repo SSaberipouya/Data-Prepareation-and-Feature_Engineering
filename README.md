@@ -83,9 +83,9 @@ When a feature (column) has a substantial amount of missing data and is deemed i
 ## Useful Links:
 For those seeking in-depth knowledge and practical guidance on handling missing data, several resources are available:
 
-[**Kaggle**]([https://www.kaggle.com/](https://www.kaggle.com/code/alexisbcook/handling-missing-values): Kaggle is a renowned platform for data science and machine learning enthusiasts. It offers a plethora of datasets and competitions, providing opportunities to practice various techniques for handling missing data and improving overall data analysis skills. 
+[**Kaggle Course**](https://www.kaggle.com/code/alexisbcook/handling-missing-values): Kaggle is a renowned platform for data science and machine learning enthusiasts. It offers a plethora of datasets and competitions, providing opportunities to practice various techniques for handling missing data and improving overall data analysis skills. 
 
-[**Handle Missing Data**](https://machinelearningmastery.com/handle-missing-data-python/): This guide provides comprehensive insights into different approaches for dealing with missing data. It covers the pros and cons of each strategy and helps you make informed decisions based on the context of your analysis. 
+[**How to Handle Missing Data with Python**](https://machinelearningmastery.com/handle-missing-data-python/): This guide provides comprehensive insights into different approaches for dealing with missing data. It covers the pros and cons of each strategy and helps you make informed decisions based on the context of your analysis. 
 
 In conclusion, addressing missing data is crucial for accurate analysis and modeling. Depending on the nature of the data and the goals of the analysis, different strategies can be employed. By leveraging resources like Kaggle and guides on handling missing data, you can enhance your proficiency in managing this common challenge in data science. Remember that the chosen strategy should align with the overall goals of your analysis and the specific characteristics of the dataset at hand.
 
