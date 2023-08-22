@@ -14,7 +14,7 @@ Identifying outliers is a crucial step in data preprocessing and analysis. Outli
 
 While outliers can be problematic, they also provide valuable insights into data quality and potential issues. Therefore, it's important to carefully evaluate whether to remove an outlier from the dataset or not. Here are a few approaches to dealing with outliers:
 
-1. **Understanding Data Sources:** Before labeling a data point as an outlier, it's essential to understand the context of the data and its sources. Sometimes, what appears to be an outlier might actually be a valid and important observation. Investigate the data collection process to ensure the accuracy of the measurement.
+1. **Understanding Data Sources:** Before labeling a data point as an outlier, it's essential to understand the context of the data and its sources. Sometimes, what appears to be an outlier might be a valid and important observation. Investigate the data collection process to ensure the accuracy of the measurement.
 
 2. **Visualization:** Visualizing the data through scatter plots, histograms, or box plots can help in identifying outliers visually. A visual inspection might reveal patterns or explain the presence of certain extreme values.
 
@@ -54,13 +54,11 @@ Are you ready to enhance your understanding of a critical aspect of machine lear
 3. **Data Leakage Explained**
    [Link to Kaggle Notebook](https://www.kaggle.com/alexisbcook/data-leakage)
    
-   Dive into a practical example on Kaggle that illustrates data leakage. This notebook provides step-by-step insights into recognizing and handling data leakage situations, enhancing your ability to identify and rectify such issues in your own projects.
+   Dive into a practical example on Kaggle that illustrates data leakage. This notebook provides step-by-step insights into recognizing and handling data leakage situations, enhancing your ability to identify and rectify such issues in your projects.
 
-Stay tuned for updates to this repository as we continue to provide in-depth insights, tutorials, and resources to help you navigate the complex landscape of data leakage in machine learning. Whether you're a novice or an experienced practitioner, our aim is to empower you with the knowledge and skills needed to build reliable and accurate machine learning models.
+Stay tuned for updates to this repository as we continue to provide in-depth insights, tutorials, and resources to help you navigate the complex landscape of data leakage in machine learning. Whether you're a novice or an experienced practitioner, we aim to empower you with the knowledge and skills needed to build reliable and accurate machine-learning models.
 
 Happy learning!
-
-*Last updated: August 2023*
 
 # 02 Dealing with missing data
 # 03 Dealing with categorical data
