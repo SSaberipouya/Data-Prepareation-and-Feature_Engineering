@@ -85,7 +85,7 @@ For those seeking in-depth knowledge and practical guidance on handling missing 
 
 **Kaggle**: Kaggle is a renowned platform for data science and machine learning enthusiasts. It offers a plethora of datasets and competitions, providing opportunities to practice various techniques for handling missing data and improving overall data analysis skills. (Website: https://www.kaggle.com/)
 
-**Handle Missing Data**: This guide provides comprehensive insights into different approaches for dealing with missing data. It covers the pros and cons of each strategy and helps you make informed decisions based on the context of your analysis.
+**Handle Missing Data**: This guide provides comprehensive insights into different approaches for dealing with missing data. It covers the pros and cons of each strategy and helps you make informed decisions based on the context of your analysis. (https://machinelearningmastery.com/handle-missing-data-python/)
 
 In conclusion, addressing missing data is crucial for accurate analysis and modeling. Depending on the nature of the data and the goals of the analysis, different strategies can be employed. By leveraging resources like Kaggle and guides on handling missing data, you can enhance your proficiency in managing this common challenge in data science. Remember that the chosen strategy should align with the overall goals of your analysis and the specific characteristics of the dataset at hand.
 
