@@ -92,7 +92,7 @@ In conclusion, addressing missing data is crucial for accurate analysis and mode
 
 In the realm of machine learning, the ability to process and utilize data effectively is a critical factor in model performance. However, not all data is created equal, and dealing with categorical data can be a challenge for many algorithms. This article explores the issue of integrating categorical data, like colors or labels, into machine learning models and introduces a valuable technique known as one-hot encoding. Traditional machine learning algorithms, like linear regression, operate on numerical values, making it difficult to directly incorporate categorical data. This is where the concept of “dummy” variables, often referred to as “one-hot encoding”, comes into play. One-hot encoding is a method that transforms categorical data into a numerical format that machine learning models can understand and process effectively.
 
-# Useful Links for Learning about Categorical Data Encoding:
+## Useful Resources for Learning about Categorical Data Encoding:
 If you’re eager to delve deeper into the world of categorical data encoding and gain practical experience with coding, the following resources will prove invaluable:
 
 1.[**Ordinal and One-Hot Encodings for Categorical Data**](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/):
